@@ -1,0 +1,4 @@
+boto3==1.28.0
+pyspark==3.5.1
+awswrangler==3.3.0
+

@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "messageId": "e997c5e1-e816-4d2f-80f0-640511b53af2",
+      "receiptHandle": "AQEBs2tY3IpiBFrpAJDSbcsS0zkF3cO/fER2JqPCaZVISX+hjYyqO1HaEOeEE6nmKsVBycpl5cAC8Leg4bVG9Xx22Z1JvB/wxHIlF5rCHPjpZrnj7zrn6hEemCy7nldN4MFqWox0zVAKHI5/47/52sVaQTyvyYV+N/s8U+RCSS1TeowZIRp4509pbOaVb/jpnWjNYTGi0IgODYm5rfZx39PXIrAe9JnmQrL++tPvbJT0Mwe13TqCAkRkwnMj14KAov/r7Meh+nQShFbLSBlmwQqNtt9+5IpXz8I89dSwfgpbkzYOB2QvZ4bYQHNJMX/TPslWZQUnaY7qDcPQC0Tl2312AnUQdhT1yl/eB15BO7uwSiqad2fNoZIF2rOA4BSRFiiEdxYcDRdnXxT46OT75gicxg==",
+      "body": "{\n    \"投資額\": 1000000,\n    \"年金利\": 0.034,\n    \"経過年数\": 5\n  }",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1756548003245",
+        "SenderId": "AIDA32EWBQKNJU2NZ6HE3",
+        "ApproximateFirstReceiveTimestamp": "1756548056033"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "01cedcb74d101358eafc576a0075da7d",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:ap-northeast-1:812063490714:MyQueue",
+      "awsRegion": "ap-northeast-1"
+    }
+  ]
+}
